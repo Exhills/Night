@@ -39,14 +39,3 @@
 |  Use Gpt       |  G! |
 
 # ━────────────━────────────━━────────────━━────────────━━────────────
-
-# 🌿 Contact Me
-
-- 🌸 [Linkelind](https://www.linkedin.com/in/federico-p-065a42217/)
-
-# 🌿 Based
-
-- 🌸 [PrettyCoffe](https://github.com/PrettyCoffee/dandadan-startpage) 
-- 🌸 [Alljavi](https://github.com/AllJavi/tartarus-startpage)
-- 🌸 [B-Coimbra](https://github.com/b-coimbra/dawn)
-- 🌸 [AmeerMoustafa](https://github.com/AmeerMoustafa/Forbidden-startpage)
